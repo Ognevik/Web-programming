@@ -87,7 +87,7 @@ $(document).ready(function() {
 			<input readonly class="product0"></input>
 			<input readonly class="amount0"></input>
 			</div>`)
-			$('.product0').val("Монитор Philips 43.4"");
+			$('.product0').val("product1");
 			$('.amount0').val(cart[i]);
 					break;
 
